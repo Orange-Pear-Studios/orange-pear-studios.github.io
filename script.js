@@ -57,4 +57,18 @@ document.addEventListener('DOMContentLoaded', () => {
             header.classList.remove('scrolled');
         }
     });
+
+    // Play Button Logic
+    const playBtn = document.getElementById('play-btn');
+    if (playBtn) {
+        playBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            const code = prompt("Enter access code to play:");
+            if (code === "lanterns") {
+                window.location.href = "dark lanterns.html";
+            } else if (code !== null) {
+                alert("Incorrect code.");
+            }
+        });
+    }
 });
