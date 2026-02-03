@@ -1,0 +1,10 @@
+{
+  "latest_version": {
+    "Windows": "0.1.0",
+    "Darwin": "0.1.0"
+  },
+  "download_url": {
+    "Windows": "https://yourname.github.io/game/builds/windows/game_v1.0.0.zip",
+    "Darwin": "https://yourname.github.io/game/builds/macos/game_v1.0.0.zip"
+  }
+}
