@@ -1,4 +1,29 @@
-document.addEventListener('DOMContentLoaded', () => {
+
+document.addEventListener("DOMContentLoaded", () => {
+    const btn = document.getElementById("download-launcher-btn");
+
+    if (!btn) return;
+
+    // Detect OS
+    let os = "Windows";
+    const platform = navigator.platform.toLowerCase();
+    if (platform.includes("mac")) os = "macOS";
+
+    // Map OS to file URL
+    const fileUrls = {
+        "Windows": "https://yourusername.github.io/game/builds/windows/launcher_windows.exe",
+        "macOS": "https://yourusername.github.io/game/builds/macos/launcher_macos.zip"
+    };
+
+    btn.href = fileUrls[os];
+    btn.setAttribute("download", "Launcher"); // Optional: triggers download
+
+    // Optional: alert which OS was detected
+    console.log("OS detected:", os, "Downloading file:", btn.href);
+
+
+
+
     // Reveal animations on scroll
     const observerOptions = {
         root: null,
