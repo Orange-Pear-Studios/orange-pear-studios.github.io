@@ -11,8 +11,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Map OS to file URL
     const fileUrls = {
-        "Windows": "https://yourusername.github.io/game/builds/windows/launcher_windows.exe",
-        "macOS": "https://yourusername.github.io/game/builds/macos/launcher_macos.zip"
+        "Windows": "https://orange-pear-studios.github.io/game/builds/windows/launcher_windows.zip",
+        "macOS": "https://orange-pear-studios.github.io/game/builds/macos/launcher_macos.zip"
     };
 
     btn.href = fileUrls[os];
