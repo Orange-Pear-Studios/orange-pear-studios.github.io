@@ -1,10 +1,13 @@
 {
   "latest_version": {
     "Windows": "0.1.0",
-    "Darwin": "0.1.0"
+    "Darwin": "0.1.0",
+    "Linux": "0.1.0"
   },
   "download_url": {
-    "Windows": "https://yourname.github.io/game/builds/windows/game_v1.0.0.zip",
-    "Darwin": "https://yourname.github.io/game/builds/macos/game_v1.0.0.zip"
-  }
+    "Windows": "https://orange-pear-studios.github.io/game-windows.zip",
+    "Darwin": "https://orange-pear-studios.github.io/game-macos.zip",
+    "Linux": "https://orange-pear-studios.github.io/game-linux.zip"
+  },
+  "notes": "Initial playtest version"
 }

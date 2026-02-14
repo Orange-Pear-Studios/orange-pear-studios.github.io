@@ -1,4 +1,6 @@
 {
   "allowed_devices": [
+    "example-device-id-1",
+    "example-device-id-2"
   ]
 }
