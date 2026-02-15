@@ -151,6 +151,16 @@ img {
     box-shadow: 0 5px 15px rgba(255, 159, 28, 0.4);
 }
 
+.btn-secondary {
+    background: linear-gradient(45deg, var(--color-secondary), #e0f7fa);
+    color: var(--color-bg);
+}
+
+.btn-secondary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(203, 240, 120, 0.4);
+}
+
 .section-padding {
     padding: var(--spacing-xl) 0;
 }
