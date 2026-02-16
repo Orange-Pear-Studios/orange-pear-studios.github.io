@@ -1,11 +1,11 @@
 {
   "latest_version": {
-    "Windows": "0.0.1",
+    "Windows": "0.0.2",
     "Darwin": "0.0.1",
     "Linux": "0.0.1"
   },
   "checksum": {
-    "Windows": "dee5d06d7bac0af6082f2507cfc0867ea87c730cbdf6a693efcd97d10da9a75e",
+    "Windows": "17c3538da7675dc5cc07fe7ab5f3499c1b07496d91b21fdbd9989e3db2728dd9",
     "Darwin": "aa3cce39865c69387eafd8e56d36697a8eca6bb82f41f69a04c5c67129abf89f",
     "Linux": "dee5d06d7bac0af6082f2507cfc0867ea87c730cbdf6a693efcd97d10da9a75e"
   },
