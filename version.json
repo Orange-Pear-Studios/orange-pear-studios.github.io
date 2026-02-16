@@ -5,9 +5,9 @@
     "Linux": "0.0.1"
   },
   "download_url": {
-    "Windows": "https://drive.google.com/drive/folders/1YIbbVwJ4dzEHWunREit8A7qjx8eWQUES?usp=sharing/game-windows.zip",
-    "Darwin": "https://drive.google.com/drive/folders/1YIbbVwJ4dzEHWunREit8A7qjx8eWQUES?usp=sharing/game-macos.zip",
-    "Linux": "https://drive.google.com/drive/folders/1YIbbVwJ4dzEHWunREit8A7qjx8eWQUES?usp=sharing/game-linux.zip"
+    "Windows": "https://drive.google.com/file/d/1e8ohi9KAXklIk33lP3DOjHoTULJBGR1M/view?usp=drive_link",
+    "Darwin": "https://drive.google.com/file/d/1nmbAYwx-_TlF7ufs9ksHS_4vfGueNYc2/view?usp=drive_link",
+    "Linux": "https://drive.google.com/file/d/1UH3qeH4zNU6EkJTS9UFZ4-uic13C_IZA/view?usp=drive_link"
   },
   "notes": "Initial playtest version",
   "checksum":{
