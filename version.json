@@ -11,8 +11,8 @@
   },
   "notes": "Initial playtest version",
   "checksum":{
-    "Windows":"970e87e910a016e0f3b47a866e1b16e84cab83ce3caa35db7bd87701fe586669",
-    "Darwin":"",
-    "Linux":""
+    "Windows":"de88730b8e838576b91ee592eb9122d1418d366512bf7482cdfac1abbb9c28f6",
+    "Darwin":"aa3cce39865c69387eafd8e56d36697a8eca6bb82f41f69a04c5c67129abf89f",
+    "Linux":"cad1306b0be31e3ba39e933e7f52ab9e2e9d6ace0c9541e77ebcddf2040567c9"
   }
 }
