@@ -10,4 +10,9 @@
     "Linux": "https://orange-pear-studios.github.io/game-linux.zip"
   },
   "notes": "Initial playtest version"
+  "checksum":{
+    "Windows":""
+    "Darwin":""
+    "Linux":""
+  }
 }
