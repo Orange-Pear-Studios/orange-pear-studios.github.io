@@ -1,8 +1,8 @@
 {
   "latest_version": {
-    "Windows": "0.1.2",
-    "Darwin": "0.1.0",
-    "Linux": "0.1.0"
+    "Windows": "0.0.1",
+    "Darwin": "0.0.1",
+    "Linux": "0.0.1"
   },
   "download_url": {
     "Windows": "https://drive.google.com/drive/folders/1YIbbVwJ4dzEHWunREit8A7qjx8eWQUES?usp=sharing/game-windows.zip",
