@@ -11,8 +11,8 @@
   },
   "notes": "Initial playtest version",
   "checksum":{
-    "Windows":""
-    "Darwin":""
+    "Windows":"",
+    "Darwin":"",
     "Linux":""
   }
 }
