@@ -7,7 +7,7 @@
   "checksum": {
     "Windows": "dee5d06d7bac0af6082f2507cfc0867ea87c730cbdf6a693efcd97d10da9a75e",
     "Darwin": "aa3cce39865c69387eafd8e56d36697a8eca6bb82f41f69a04c5c67129abf89f",
-    "Linux": "dee5d06d7bac0af6082f2507cfc0867ea87c730cbdf6a693efcd97d10da9a75e
+    "Linux": "dee5d06d7bac0af6082f2507cfc0867ea87c730cbdf6a693efcd97d10da9a75e"
   },
   "notes": "Initial playtest version",
   "download_url":{
