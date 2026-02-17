@@ -1,18 +1,18 @@
 {
   "latest_version": {
-    "Windows": "0.0.3.1",
-    "Darwin": "0.0.1",
+    "Windows": "0.0.3.2",
+    "Darwin": "0.0.2",
     "Linux": "0.0.3.1"
   },
   "checksum": {
-    "Windows": "7f29b160284fafb712b8e4d8f15c92f2c112f571905c748f2d54297458128721",
-    "Darwin": "aa3cce39865c69387eafd8e56d36697a8eca6bb82f41f69a04c5c67129abf89f",
-    "Linux": "afdb2784267e907065064bf2d4be35db71a6d99ce8bea4197cdcbbe7c9ec826c"
+    "Windows": "96b7271c132983296b3344a8c066c8119a703e61cd9f0860dd14bd8de2c9df76",
+    "Darwin": "",
+    "Linux": "ec3d56a01417a6ea26817e725c31f7709f20c2622b74f1eebfc42c7590bcf5b7"
   },
   "notes": "Initial playtest version",
   "download_url":{
-    "Windows":"https://github.com/Orange-Pear-Studios/Dark-lanterns-files/releases/download/airball/game-windows.zip",
+    "Windows":"https://github.com/Orange-Pear-Studios/Dark-lanterns-files/releases/download/thefixbroke/game-windows.zip",
     "Darwin":"https://github.com/Orange-Pear-Studios/Dark-lanterns-files/releases/download/0.0/game-macos.zip",
-    "Linux":"https://github.com/Orange-Pear-Studios/Dark-lanterns-files/releases/download/airball/game-linux.zip"
+    "Linux":"https://github.com/Orange-Pear-Studios/Dark-lanterns-files/releases/download/thefixbroke/game-linux.zip"
   }
 }
