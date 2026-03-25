@@ -1,18 +1,18 @@
 {
   "latest_version": {
-    "Windows": "0.55",
+    "Windows": "0.6",
     "Darwin": "0.0.2",
-    "Linux": "0.55"
+    "Linux": "0.6"
   },
   "checksum": {
-    "Windows": "674425c6b46d6f744f5f9c59bc8e5457b3ab1916b3e8b05a27c5067f6fa73a81",
+    "Windows": "021702d246c89278edda81b3977b1909d56b09d1f843e02a1edc6814afe00bac",
     "Darwin": "",
-    "Linux": "32559da2dded43c30c1700019fc5a4e050f8510294dcbe18e9ca2c8724fdd3db"
+    "Linux": "f178939585bcf78ee8d37774de221981d552fe8a030c5ee985551e72d3fc02c1"
   },
   "notes": "Initial playtest version",
   "download_url":{
-    "Windows":"https://github.com/Orange-Pear-Studios/Dark-lanterns-files/releases/download/0.55/game_windows.zip",
+    "Windows":"https://github.com/Orange-Pear-Studios/Dark-lanterns-files/releases/download/0.6/game_windows.zip",
     "Darwin":"https://github.com/Orange-Pear-Studios/Dark-lanterns-files/releases/download/0.0/game-macos.zip",
-    "Linux":"https://github.com/Orange-Pear-Studios/Dark-lanterns-files/releases/download/0.55/game_linux.zip"
+    "Linux":"https://github.com/Orange-Pear-Studios/Dark-lanterns-files/releases/download/0.6/game_linux.zip"
   }
 }
