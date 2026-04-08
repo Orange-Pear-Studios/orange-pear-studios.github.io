@@ -1,8 +1,8 @@
 {
   "latest_version": {
-    "Windows": "0.61.1",
+    "Windows": "0.61.5",
     "Darwin": "0.0.2",
-    "Linux": "0.61.1"
+    "Linux": "0.61.5"
   },
   "checksum": {
     "Windows": "5d41811296f09076a7d55f45da8f4db42385fe50a101f79d14f4af28158b01f8",
